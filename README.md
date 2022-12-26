@@ -1,7 +1,9 @@
 # Projeto de Desenvolvimento de Aplicação para Tratamento de Dados
 Projeto do Primeiro Semestre de Tecnologia em Banco de Dados da PUC-MG
 
-Este projeto foi divido em 6 etapas, onde foi usado a plataforma SQL para implementação dos dados.
+Este projeto continham 6 integrantes e 6 etapas a serem feitas no decorrer do segundo semestre de 2022, foi usado a plataforma SQL para implementação dos dados.
+DashBoard no excel para apresentação gráfica.
+Slide em PowerPoint para apresentação.
 
  ## Etapas
 • Grupos e Bases de Dados
